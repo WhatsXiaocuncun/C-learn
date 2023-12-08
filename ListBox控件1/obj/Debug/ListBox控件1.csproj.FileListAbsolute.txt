@@ -1,0 +1,10 @@
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\ListBox控件1\bin\Debug\ListBox控件1.exe.config
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\ListBox控件1\bin\Debug\ListBox控件1.exe
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\ListBox控件1\bin\Debug\ListBox控件1.pdb
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\ListBox控件1\obj\Debug\ListBox控件1.csprojAssemblyReference.cache
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\ListBox控件1\obj\Debug\ListBox控件1.Form1.resources
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\ListBox控件1\obj\Debug\ListBox控件1.Properties.Resources.resources
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\ListBox控件1\obj\Debug\ListBox控件1.csproj.GenerateResource.cache
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\ListBox控件1\obj\Debug\ListBox控件1.csproj.CoreCompileInputs.cache
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\ListBox控件1\obj\Debug\ListBox控件1.exe
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\ListBox控件1\obj\Debug\ListBox控件1.pdb

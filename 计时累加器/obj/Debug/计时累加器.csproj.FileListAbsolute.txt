@@ -1,0 +1,10 @@
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\计时累加器\bin\Debug\计时累加器.exe.config
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\计时累加器\bin\Debug\计时累加器.exe
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\计时累加器\bin\Debug\计时累加器.pdb
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\计时累加器\obj\Debug\计时累加器.csprojAssemblyReference.cache
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\计时累加器\obj\Debug\计时累加器.计时器.resources
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\计时累加器\obj\Debug\计时累加器.Properties.Resources.resources
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\计时累加器\obj\Debug\计时累加器.csproj.GenerateResource.cache
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\计时累加器\obj\Debug\计时累加器.csproj.CoreCompileInputs.cache
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\计时累加器\obj\Debug\计时累加器.exe
+E:\5.C#相关资料\15.0326.Net基础班第十五天\资料\0326.Net基础班第十五天\计时累加器\obj\Debug\计时累加器.pdb
