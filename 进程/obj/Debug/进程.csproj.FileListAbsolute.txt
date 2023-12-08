@@ -1,0 +1,7 @@
+C:\Users\WuYuc\source\repos\SOCKET协议\进程\bin\Debug\进程.exe.config
+C:\Users\WuYuc\source\repos\SOCKET协议\进程\bin\Debug\进程.exe
+C:\Users\WuYuc\source\repos\SOCKET协议\进程\bin\Debug\进程.pdb
+C:\Users\WuYuc\source\repos\SOCKET协议\进程\obj\Debug\进程.csprojAssemblyReference.cache
+C:\Users\WuYuc\source\repos\SOCKET协议\进程\obj\Debug\进程.csproj.CoreCompileInputs.cache
+C:\Users\WuYuc\source\repos\SOCKET协议\进程\obj\Debug\进程.exe
+C:\Users\WuYuc\source\repos\SOCKET协议\进程\obj\Debug\进程.pdb

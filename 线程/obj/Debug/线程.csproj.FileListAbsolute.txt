@@ -1,0 +1,10 @@
+C:\Users\WuYuc\source\repos\SOCKET协议\线程\bin\Debug\线程.exe.config
+C:\Users\WuYuc\source\repos\SOCKET协议\线程\bin\Debug\线程.exe
+C:\Users\WuYuc\source\repos\SOCKET协议\线程\bin\Debug\线程.pdb
+C:\Users\WuYuc\source\repos\SOCKET协议\线程\obj\Debug\线程.csprojAssemblyReference.cache
+C:\Users\WuYuc\source\repos\SOCKET协议\线程\obj\Debug\线程.Form1.resources
+C:\Users\WuYuc\source\repos\SOCKET协议\线程\obj\Debug\线程.Properties.Resources.resources
+C:\Users\WuYuc\source\repos\SOCKET协议\线程\obj\Debug\线程.csproj.GenerateResource.cache
+C:\Users\WuYuc\source\repos\SOCKET协议\线程\obj\Debug\线程.csproj.CoreCompileInputs.cache
+C:\Users\WuYuc\source\repos\SOCKET协议\线程\obj\Debug\线程.exe
+C:\Users\WuYuc\source\repos\SOCKET协议\线程\obj\Debug\线程.pdb

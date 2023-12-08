@@ -1,0 +1,9 @@
+C:\Users\WuYuc\source\repos\SOCKET协议\SOCKET协议\bin\Debug\SOCKET协议.exe.config
+C:\Users\WuYuc\source\repos\SOCKET协议\SOCKET协议\bin\Debug\SOCKET协议.exe
+C:\Users\WuYuc\source\repos\SOCKET协议\SOCKET协议\bin\Debug\SOCKET协议.pdb
+C:\Users\WuYuc\source\repos\SOCKET协议\SOCKET协议\obj\Debug\SOCKET协议.csprojAssemblyReference.cache
+C:\Users\WuYuc\source\repos\SOCKET协议\SOCKET协议\obj\Debug\SOCKET协议.Properties.Resources.resources
+C:\Users\WuYuc\source\repos\SOCKET协议\SOCKET协议\obj\Debug\SOCKET协议.csproj.GenerateResource.cache
+C:\Users\WuYuc\source\repos\SOCKET协议\SOCKET协议\obj\Debug\SOCKET协议.csproj.CoreCompileInputs.cache
+C:\Users\WuYuc\source\repos\SOCKET协议\SOCKET协议\obj\Debug\SOCKET协议.exe
+C:\Users\WuYuc\source\repos\SOCKET协议\SOCKET协议\obj\Debug\SOCKET协议.pdb
