@@ -1,0 +1,10 @@
+C:\Users\WuYuc\Desktop\串口调试助手\串口调试助手\串口调试助手\bin\Debug\串口调试助手.exe.config
+C:\Users\WuYuc\Desktop\串口调试助手\串口调试助手\串口调试助手\bin\Debug\串口调试助手.exe
+C:\Users\WuYuc\Desktop\串口调试助手\串口调试助手\串口调试助手\bin\Debug\串口调试助手.pdb
+C:\Users\WuYuc\Desktop\串口调试助手\串口调试助手\串口调试助手\obj\Debug\串口调试助手.csprojAssemblyReference.cache
+C:\Users\WuYuc\Desktop\串口调试助手\串口调试助手\串口调试助手\obj\Debug\串口调试助手.Form1.resources
+C:\Users\WuYuc\Desktop\串口调试助手\串口调试助手\串口调试助手\obj\Debug\串口调试助手.Properties.Resources.resources
+C:\Users\WuYuc\Desktop\串口调试助手\串口调试助手\串口调试助手\obj\Debug\串口调试助手.csproj.GenerateResource.cache
+C:\Users\WuYuc\Desktop\串口调试助手\串口调试助手\串口调试助手\obj\Debug\串口调试助手.csproj.CoreCompileInputs.cache
+C:\Users\WuYuc\Desktop\串口调试助手\串口调试助手\串口调试助手\obj\Debug\串口调试助手.exe
+C:\Users\WuYuc\Desktop\串口调试助手\串口调试助手\串口调试助手\obj\Debug\串口调试助手.pdb
